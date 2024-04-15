@@ -1,3 +1,3 @@
-9fm. \n
-interested in <sub><sup>obviously</sup></sub> in programming\n
-mostly coding in python+vue+tailwind\n
+9fm.  
+interested in <sub><sup>obviously</sup></sub> in programming  
+mostly coding in python+vue+tailwind  
